@@ -276,7 +276,6 @@ app_data/
 /src/VirtoCommerce.Platform.Web/wwwroot/assets
 /src/VirtoCommerce.Platform.Web/wwwroot/dist
 
-.vscode
 
 /.nuke
 /src/VirtoCommerce.Platform.Web/export
